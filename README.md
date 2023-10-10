@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Oscar
+
+- 🌱 I’m currently learning `go`, `rust` and `qwik.js`
+
+[![An image of @0scvr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0scvr)](https://holopin.io/@0scvr)
+
+
 
 <!--
 **0scvr/0scvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
