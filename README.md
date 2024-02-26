@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Oscar
 
-- 🌱 I’m currently learning `go`, `rust` and `qwik.js`
+- I have years of experience in **Java** and **Javascript** and I’m currently learning **Go** and **Rust**.
 
 [![An image of @0scvr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0scvr)](https://holopin.io/@0scvr)
 
